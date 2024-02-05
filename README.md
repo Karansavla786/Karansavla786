@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Azure-End-To-End-Project</b>
-  - [Azure-Real-Time-Product-Performance-Insights-Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/Karansavla786/Azure-Real-Time-Product-Performance-Insights-Project?tab=readme-ov-file#azure-real-time-product-performance-insights-project)) <b></b>
+  - [Azure-Real-Time-Product-Performance-Insights-Project](https://github.com/Karansavla786/Azure-Real-Time-Product-Performance-Insights-Project)
 
 <h2>⭐️ Certifications:</h2>
 
