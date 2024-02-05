@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Azure-End-To-End-Project</b>
+  - [Azure-Real-Time-Product-Performance-Insights-Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/Karansavla786/Azure-Real-Time-Product-Performance-Insights-Project?tab=readme-ov-file#azure-real-time-product-performance-insights-project)) <b></b>
 
 <h2>⭐️ Certifications:</h2>
 
